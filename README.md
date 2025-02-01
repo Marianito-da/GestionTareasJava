@@ -28,8 +28,6 @@
   * Finalizar la ejecución del programa.
 
  # Instrucciones Adicionales:
-  * Implementación Inicial:
-  * Implementa la aplicación según los requisitos funcionales.
   * Asegúrate de que el menú funcione correctamente y que las tareas se gestionen como se describe.
   # Pruebas:
   * Prueba la aplicación con diferentes casos de uso, incluyendo entradas válidas y no válidas.
