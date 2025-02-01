@@ -2,7 +2,7 @@
 
 ## Objetivos:
 
-- Desarrollar una aplicación de consola en Java que permita gestionar tareas. La aplicación debe permitir al
+- Arreglar la aplicación de consola en Java que permita gestionar tareas. La aplicación debe permitir al
 - usuario agregar, ver, marcar como completadas y eliminar tareas. Además, se debe manejar correctamente
 - la entrada del usuario para evitar errores y comportamientos inesperados.
 
