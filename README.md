@@ -28,7 +28,7 @@
   * Finalizar la ejecución del programa.
 
 - **Requisitos No Funcionales:** ✅
-   - * Manejo de Excepciones:
+-** Manejo de Excepciones: **
     * La aplicación debe manejar correctamente las entradas no válidas del usuario (por ejemplo, si el usuario ingresa texto en lugar de un número).
     * Si el usuario ingresa un valor no válido, la aplicación debe mostrar un mensaje de error y permitirle intentarlo nuevamente.
 # Uso del Scanner:
