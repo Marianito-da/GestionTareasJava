@@ -53,7 +53,7 @@
     ![Screenshot_1](https://github.com/user-attachments/assets/a5b950aa-b762-4b60-b51f-aa3042b182f2)
   # Pistas:
   * Revisa la documentación de java.
-  * Prueba la aplicación con entradas no válidas
+  * Prueba la aplicación.
 
  
     
