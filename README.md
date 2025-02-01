@@ -2,7 +2,6 @@
 
 ## Error que tiene la aplicacion:
  * La aplicación no maneja correctamente las entradas no válidas del usuario (por ejemplo, si el usuario ingresa texto en lugar de un número).
- * Revisa el manejo de Excepciones.
  * Otro ejemplo si el usuario ingresa un valor no válido, la aplicación debe mostrar un mensaje de error y permitirle intentarlo nuevamente.
 
 
@@ -46,6 +45,6 @@
   # Pistas:
   * Revisa la documentación de java.
   * Prueba la aplicación.
-
+  * Revisa el manejo de Excepciones.
  
     
