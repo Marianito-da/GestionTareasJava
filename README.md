@@ -54,7 +54,7 @@
   # Pistas:
   * Investiga cómo manejar la excepción en Java.
   * Revisa la documentación de java.
-  * Prueba la aplicación con entradas no válidas (por ejemplo, texto en lugar de números) para detectar el error.
+  * Prueba la aplicación con entradas no válidas
 
  
     
