@@ -31,19 +31,12 @@
 -** Manejo de Excepciones: **
     * La aplicación debe manejar correctamente las entradas no válidas del usuario (por ejemplo, si el usuario ingresa texto en lugar de un número).
     * Si el usuario ingresa un valor no válido, la aplicación debe mostrar un mensaje de error y permitirle intentarlo nuevamente.
-# Uso del Scanner:
-  * Asegurarse de que el Scanner maneje correctamente las entradas no válidas, evitando bucles infinitos o comportamientos inesperados.
- 
+
 
  # Instrucciones Adicionales:
   * Implementación Inicial:
   * Implementa la aplicación según los requisitos funcionales.
   * Asegúrate de que el menú funcione correctamente y que las tareas se gestionen como se describe.
-  # Error Introducido:
-  * Durante la implementación, se introducirá un error sutil relacionado con el manejo de entradas no válidas. Este error no causará un fallo inmediato, pero puede llevar a comportamientos inesperados en el programa.
-  * Detección y Corrección del Error:
-  * Investiga y corrige el error relacionado con el manejo de excepciones y el flujo de entrada del usuario.
-  * Asegúrate de que el Scanner consuma correctamente las entradas no válidas para evitar problemas en las siguientes iteraciones del menú.
   # Pruebas:
   * Prueba la aplicación con diferentes casos de uso, incluyendo entradas válidas y no válidas.
   * Verifica que el programa maneje correctamente los errores y no entre en bucles infinitos.
@@ -60,7 +53,7 @@
     ![Screenshot_1](https://github.com/user-attachments/assets/a5b950aa-b762-4b60-b51f-aa3042b182f2)
   # Pistas:
   * Investiga cómo manejar la excepción en Java.
-  * Revisa la documentación de la clase Scanner.
+  * Revisa la documentación de java.
   * Prueba la aplicación con entradas no válidas (por ejemplo, texto en lugar de números) para detectar el error.
 
  
