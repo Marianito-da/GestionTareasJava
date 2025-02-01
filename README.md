@@ -1,10 +1,10 @@
 # Aplicación de Gestión de Tareas en Java
 
-## Objetivos:
+## Error que tiene la aplicacion:
+ * La aplicación no maneja correctamente las entradas no válidas del usuario (por ejemplo, si el usuario ingresa texto en lugar de un número).
+ * Revisa el manejo de Excepciones.
+ * Otro ejemplo si el usuario ingresa un valor no válido, la aplicación debe mostrar un mensaje de error y permitirle intentarlo nuevamente.
 
-- Arreglar la aplicación de consola en Java que permita gestionar tareas. La aplicación debe permitir al
-- usuario agregar, ver, marcar como completadas y eliminar tareas. Además, se debe manejar correctamente
-- la entrada del usuario para evitar errores y comportamientos inesperados.
 
 # Requisitos Funcionales:
 
@@ -26,12 +26,6 @@
  * Mostrar la lista de tareas. Permitir al usuario seleccionar una tarea por su número para eliminarla.
 - **Salir:** 
   * Finalizar la ejecución del programa.
-
-- **Requisitos No Funcionales:** ✅
--** Manejo de Excepciones: **
-    * La aplicación debe manejar correctamente las entradas no válidas del usuario (por ejemplo, si el usuario ingresa texto en lugar de un número).
-    * Si el usuario ingresa un valor no válido, la aplicación debe mostrar un mensaje de error y permitirle intentarlo nuevamente.
-
 
  # Instrucciones Adicionales:
   * Implementación Inicial:
