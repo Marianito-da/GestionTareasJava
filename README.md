@@ -1,1 +1,67 @@
-# GestionTareasJava
+# Aplicación de Gestión de Tareas en Java
+
+## Objetivos:
+
+- Desarrollar una aplicación de consola en Java que permita gestionar tareas. La aplicación debe permitir al
+- usuario agregar, ver, marcar como completadas y eliminar tareas. Además, se debe manejar correctamente
+- la entrada del usuario para evitar errores y comportamientos inesperados.
+
+# Requisitos Funcionales:
+
+- **Menú Principal: La aplicación debe mostrar un menú con las siguientes opciones:** ✅
+- **1: Ver tareas.** ✅
+- **2: Agregar tarea.** ✅
+- **3: Marcar tarea como completada.** ✅
+- **4: Eliminar tarea.** ✅
+- **5: Salir.**
+
+
+  # Ver Tareas:
+  * Mostrar todas las tareas con su estado (completada o pendiente). Si no hay tareas, mostrar un mensaje indicando que no hay tareas.
+- **Agregar Tarea:**
+ * Permitir al usuario ingresar una descripción para la tarea. La tarea se agregará a la lista con estado "pendiente".
+- **Marcar Tarea como Completada:**
+ * Mostrar la lista de tareas. Permitir al usuario seleccionar una tarea por su número para marcarla como completada.
+- **Eliminar Tarea:**
+ * Mostrar la lista de tareas. Permitir al usuario seleccionar una tarea por su número para eliminarla.
+- **Salir:** 
+  * Finalizar la ejecución del programa.
+
+- **Requisitos No Funcionales:** ✅
+   - * Manejo de Excepciones:
+    * La aplicación debe manejar correctamente las entradas no válidas del usuario (por ejemplo, si el usuario ingresa texto en lugar de un número).
+    * Si el usuario ingresa un valor no válido, la aplicación debe mostrar un mensaje de error y permitirle intentarlo nuevamente.
+# Uso del Scanner:
+  * Asegurarse de que el Scanner maneje correctamente las entradas no válidas, evitando bucles infinitos o comportamientos inesperados.
+ 
+
+ # Instrucciones Adicionales:
+  * Implementación Inicial:
+  * Implementa la aplicación según los requisitos funcionales.
+  * Asegúrate de que el menú funcione correctamente y que las tareas se gestionen como se describe.
+  # Error Introducido:
+  * Durante la implementación, se introducirá un error sutil relacionado con el manejo de entradas no válidas. Este error no causará un fallo inmediato, pero puede llevar a comportamientos inesperados en el programa.
+  * Detección y Corrección del Error:
+  * Investiga y corrige el error relacionado con el manejo de excepciones y el flujo de entrada del usuario.
+  * Asegúrate de que el Scanner consuma correctamente las entradas no válidas para evitar problemas en las siguientes iteraciones del menú.
+  # Pruebas:
+  * Prueba la aplicación con diferentes casos de uso, incluyendo entradas válidas y no válidas.
+  * Verifica que el programa maneje correctamente los errores y no entre en bucles infinitos.
+  # Entrega:
+  * Código Fuente:
+  * Entrega el código fuente completo de la aplicación.
+  * Asegúrate de que el código esté bien comentado y documentado.
+  * Explicación del Error y Solución:
+  * Incluye una breve explicación del error introducido y cómo lo resolviste.
+  * Menciona cualquier recurso o documentación que hayas consultado para resolver el problema.
+  # Capturas de Pantalla:
+  * Adjunta capturas de pantalla que muestren la aplicación en funcionamiento, incluyendo casos de uso y manejo de errores.
+ #Ejemplo:
+    ![Screenshot_1](https://github.com/user-attachments/assets/a5b950aa-b762-4b60-b51f-aa3042b182f2)
+  # Pistas:
+  * Investiga cómo manejar la excepción en Java.
+  * Revisa la documentación de la clase Scanner.
+  * Prueba la aplicación con entradas no válidas (por ejemplo, texto en lugar de números) para detectar el error.
+
+ 
+    
